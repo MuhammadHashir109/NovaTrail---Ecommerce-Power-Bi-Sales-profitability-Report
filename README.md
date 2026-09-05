@@ -31,7 +31,7 @@ KPI snapshot — Sales, Profit, Profit %, Quantity Sold, YoY Growth, Total Custo
 ![Overview](assets/overview.png)
 
 ### Trend Analysis
-Monthly sales trend, quantity sold by month & loyalty tier, and sales by year & region — used to separate genuine trend from one-off blips.
+Monthly profit margin trend, quantity sold by month & loyalty tier, and sales by year & region — used to separate genuine trend from one-off blips.
 
 ![Trend Analysis](assets/trend_analysis.png)
 
